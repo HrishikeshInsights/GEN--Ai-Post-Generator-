@@ -1,1 +1,1 @@
-# GEN--Ai-Post-Generator-
+# GEN-Ai-Post-Generator
